@@ -1,0 +1,3 @@
+tkinter
+speech_recognition
+pyttsx3
